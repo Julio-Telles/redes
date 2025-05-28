@@ -20,6 +20,14 @@ export default function Home() {
       >
         ISAAC STYLE
       </div>
+      <div style={{
+          background: 'purple',
+          fontSize: 120,
+          fontWeight: 600
+        }}
+      >
+        ALEX NÃO RESPONSIVO
+      </div>
 
     </div>
   );
